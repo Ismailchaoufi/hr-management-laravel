@@ -18,5 +18,3 @@ yarn-error.log
 /.vscode
 public/google_cloud_credentials/credentials.json
 app/Services/ChatGPTService.php
-.env.*
-!.env.example
